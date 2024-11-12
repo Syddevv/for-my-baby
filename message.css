@@ -4,7 +4,7 @@
   font-family: sour gummy;
 }
 body {
-  background-image: url(images/Untitled\ design.jpg);
+  background-image: url(Untitled\ design.jpg);
   background-size: contain;
   display: flex;
   justify-content: center;
@@ -47,7 +47,7 @@ body {
 }
 
 .message {
-  background-image: url(images/Your\ paragraph\ text.jpg);
+  background-image: url(Your\ paragraph\ text.jpg);
   background-size: contain;
   padding: 10px;
   border: 3px solid;
