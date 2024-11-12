@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(images/Untitled\ design.jpg);
+  background-image: url(Untitled\ design.jpg);
   background-size: contain;
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@ body {
 
 .container {
   display: flex;
-  background-image: url(images/Your\ paragraph\ text.jpg);
+  background-image: url(Your\ paragraph\ text.jpg);
   flex-direction: column;
   background-size: contain;
   padding-left: 40px;
